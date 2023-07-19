@@ -1,0 +1,9 @@
+1.For the first and third commit  download all the files and copy each commit in its own folder and then open the index.html file with a web browser to view the website .
+
+2.And for the fourth commit also download  all the files and put them in a myportfolio folder which you are going to create and put it inside htdocs folder which is found inside the xampp folder located in local disk, but dont copy the myportifolio database.
+
+3.And the next step is to open the xampp control panel and then click on the Admin which is going to redirect you on the phpMyAdmin home page, and then click on the import which your going to import  the myportfolio database on the file import section.
+
+4.the last thing you need to do is type on the address bar of web browser e.g Google chrome and type;Localhost/htdocs/myportifolio/index.php and place enter or search that's when you going to view my php website.
+
+NOTE: my css wasn't working so its not looking but it is displaying all the information that you assigned us to do.
